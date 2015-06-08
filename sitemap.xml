@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://localhost/automad/</loc></url>
+<url><loc>http://localhost/automad/example_pages</loc></url>
+<url><loc>http://localhost/automad/example_pages/complex_icosphere</loc></url>
+<url><loc>http://localhost/automad/example_pages/complex_icosphere/cylinder</loc></url>
+<url><loc>http://localhost/automad/example_pages/cube</loc></url>
+<url><loc>http://localhost/automad/example_pages/icosphere</loc></url>
+<url><loc>http://localhost/automad/example_pages/sphere</loc></url>
+<url><loc>http://localhost/automad/example_pages/torus</loc></url>
+<url><loc>http://localhost/automad/example_pages/trapezoid</loc></url>
+<url><loc>http://localhost/automad/example_pages/tube</loc></url>
+<url><loc>http://localhost/automad/example_gallery</loc></url>
+</urlset>
